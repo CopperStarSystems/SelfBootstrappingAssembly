@@ -1,5 +1,5 @@
 # SelfBootstrappingAssembly
-A simple example of a .DLL that uses Castle Windsor from an application that does not.
+A simple example of using Castle Windsor within a .dll without forcing consumers to take a dependency on Windsor.
 
 ## Console Application:
 The console application does not have a dependency on Castle Windsor, and does not use the container directly.

@@ -3,7 +3,6 @@
 // 2017/02/27
 //  --------------------------------------------------------------------------------------
 
-using Castle.Windsor;
 using SelfBootstrappingAssembly.ExternalDependency.Bootstrap;
 
 namespace SelfBootstrappingAssembly.ExternalDependency

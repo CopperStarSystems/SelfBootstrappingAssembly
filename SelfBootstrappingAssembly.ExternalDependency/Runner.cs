@@ -3,8 +3,6 @@
 // 2017/02/27
 //  --------------------------------------------------------------------------------------
 
-using System;
-
 namespace SelfBootstrappingAssembly.ExternalDependency
 {
     public class Runner : IRunner
